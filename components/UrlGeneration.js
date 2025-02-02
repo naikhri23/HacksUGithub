@@ -11,11 +11,8 @@ export default function UrlGenerator() {
         if (Math.floor(Math.random() * 2) == 0) {
             url += Math.floor(Math.random() * 10);
         } else {
-            url+= lowerChars[Math.floor(Math.random() * 26)];
+            url += lowerChars[Math.floor(Math.random() * 26)];
         }
     }
-
-    return (
-        <div suppressHydrationWarning>{url}</div>
-    ); 
+    return url;
 }
