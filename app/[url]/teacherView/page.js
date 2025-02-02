@@ -17,7 +17,7 @@ export default function TeacherPage() {
             </button>
           </div>
 
-          <div classname="absolute top-5 right-5 flex items-center">
+          <div className="absolute top-5 right-5 flex items-center">
             {/* Notification Icon with Dot */}
             <button className="w-10 h-10 relative">
               <MessageCircleQuestion className="w-10 h-10 text-gray-700" />
