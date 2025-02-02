@@ -10,13 +10,14 @@ export default function TeacherPage() {
           <button className="absolute right-4 top-1/2 -translate-y-1/2 bg-gray-200 text-gray-700 rounded-full w-10 h-10 flex items-center justify-center shadow-md hover:bg-gray-300">
             <ChevronRight className="w-6 h-6" />
           </button>
+
           <div className="absolute top-5 left-5 flex items-center space-x-4">
             <button className="w-10 h-10">
               <Share className="w-10 h-10 text-gray-700" />
             </button>
           </div>
 
-          <div classname="absolute top-5 right-5 flex items-ce">
+          <div classname="absolute top-5 right-5 flex items-center">
             {/* Notification Icon with Dot */}
             <button className="w-10 h-10 relative">
               <MessageCircleQuestion className="w-10 h-10 text-gray-700" />
