@@ -1,5 +1,25 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+slideSU
+
+slideSU is an anonymous questioning platform designed to enhance student engagement during lectures. It allows students to submit and upvote questions on lecture slides, providing a judgment-free way to participate in class discussions.
+
+Features
+
+* Upload & Share Slides: Professors can upload PowerPoint slides and generate a unique code for students to access.
+
+* Anonymous Questioning: Students can submit questions anonymously on specific slides.
+
+* Upvote System: Students can upvote questions they relate to, helping professors prioritize the most relevant ones.
+
+* AI-Generated Questions: Students can choose from two difficulty levels of AI-generated questions to enhance their understanding.
+
+* Real-Time Interaction: Ensures live engagement between students and professors.
+
+How We Built It
+
+slideSU was built using React.js and VSCode Live Share. While exploring backend solutions, we faced challenges due to the collaborative nature of VSCode Live Share. Ultimately, we leveraged React’s capabilities to create a real-time experience without a traditional database.
+
 ## Getting Started
 
 First, run the development server:
