@@ -1,6 +1,6 @@
 Collaborators: [Kirim Lee] (https://github.com/kirim13) and \[Kyle Wang](https://github.com/kyng247)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Built for HackSU for the Connections track.
 
 ## Slide SU
 
@@ -20,9 +20,11 @@ Slide SU is an anonymous questioning platform designed to enhance student engage
 
 ## How We Built It
 
-Slide SU was built using React.js and VSCode Live Share. While exploring backend solutions, we faced challenges due to the collaborative nature of VSCode Live Share. Ultimately, we leveraged React’s capabilities to create a real-time experience without a traditional database. We built it for HackSU as part of the Connections track
+Slide SU was built using React.js and VSCode Live Share. While exploring backend solutions, we faced challenges due to the collaborative nature of VSCode Live Share. Ultimately, we leveraged React’s capabilities to create a real-time experience without a traditional database.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -56,3 +58,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
