@@ -1,3 +1,5 @@
+Collaborators: [Kirim Lee] (https://github.com/kirim13) and \[Kyle Wang](https://github.com/kyng247)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Slide SU
@@ -18,7 +20,7 @@ Slide SU is an anonymous questioning platform designed to enhance student engage
 
 ## How We Built It
 
-Slide SU was built using React.js and VSCode Live Share. While exploring backend solutions, we faced challenges due to the collaborative nature of VSCode Live Share. Ultimately, we leveraged React’s capabilities to create a real-time experience without a traditional database.
+Slide SU was built using React.js and VSCode Live Share. While exploring backend solutions, we faced challenges due to the collaborative nature of VSCode Live Share. Ultimately, we leveraged React’s capabilities to create a real-time experience without a traditional database. We built it for HackSU as part of the Connections track
 
 ## Getting Started
 
