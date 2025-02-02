@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## slideSU
+## Slide SU
 
-slideSU is an anonymous questioning platform designed to enhance student engagement during lectures. It allows students to submit and upvote questions on lecture slides, providing a judgment-free way to participate in class discussions.
+Slide SU is an anonymous questioning platform designed to enhance student engagement during lectures. It allows students to submit and upvote questions on lecture slides, providing a judgment-free way to participate in class discussions.
 
 ## Features
 
@@ -18,7 +18,7 @@ slideSU is an anonymous questioning platform designed to enhance student engagem
 
 ## How We Built It
 
-slideSU was built using React.js and VSCode Live Share. While exploring backend solutions, we faced challenges due to the collaborative nature of VSCode Live Share. Ultimately, we leveraged React’s capabilities to create a real-time experience without a traditional database.
+Slide SU was built using React.js and VSCode Live Share. While exploring backend solutions, we faced challenges due to the collaborative nature of VSCode Live Share. Ultimately, we leveraged React’s capabilities to create a real-time experience without a traditional database.
 
 ## Getting Started
 
